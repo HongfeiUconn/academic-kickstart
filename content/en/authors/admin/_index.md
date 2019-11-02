@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Hongfei Li
+name: Qi Qi
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,28 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Survival Analysis, Bayesian Methods, Longitudinal Data Analysis, Joint Modeling, Stochastic Models, Data Visualization, Machine Learning, Data Mining, Statistical Computing.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Survival Analysis
+- Bayesian Methods
+- Longitudinal Data Analysis
+- Stochastic Models
+- Data Visualization
+- Machine Learning
+- Statistical Computing
 
 education:
   courses:
-  - course: Ph.D. Business Administration
+  - course: PhD in Statistics
     institution: University of Connecticut
-    year: 2020
-  - course: M.S. Information Science
-    institution: Renmin University of China
+    year: 2017
+  - course: MS in Statistics
+    institution: University of Connecticut
     year: 2015
-  - course: B.S. Information Systems 
-    institution: Renmin University of China
-    year: 2013
+  - course: BS in Statistics
+    institution: Remin University of China
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +48,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hongfei@uconn.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:qi.2.qi@uconn.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/qi-qi-a5b241117/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/qiq15001
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -70,10 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Hongfei Li is a fifth-year Ph.D. student from [Department of Operations and Information Management](https://opim.business.uconn.edu/) of [School of Business](https://www.business.uconn.edu/), at the [University of Connecticut](https://uconn.edu/). He expects to graduate by May 2020. His current research focuses on three main streams: 
+Qi Qi is a Ph.D candidate at the department of Statistics, University of Connecticut. Her research interests include Survival Analysis, Bayesian Methods, Longitudinal Data Analysis, Joint Modeling, Stochastic Models, Data Visualization, Machine Learning, Data Mining, Statistical Computing. She is working as research consultant at Boehringer - Ingelheim and research assistant at Albert Einstein College of Medicine.
 
-* Business analytics in emerging online platforms
-* Applications of artificial intelligence and machine Learning 
-* Statistical methodology
+Qi enjoys swimming, playing badminton and painting. She works out regularly and sometimes goes hiking. Qi loves her cat a lot. Her cat, Hera, is a lovely and sweet tuxedo cat and was born on July 2, 2017. It is her happiest moment when the cat sleeps in her arms every night.
 
-He has one paper under the third-round review at [ACM Transaction in MIS](https://tmis.acm.org/) and one paper under revision for the second-round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre). He also has one paper under first-round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre) and one paper under the first-round review at [MIS Quarterly](https://www.misq.org/). During his Ph.D. career, he has taught two courses: operations management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) and business information systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)).
