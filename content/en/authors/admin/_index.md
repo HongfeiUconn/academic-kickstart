@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Hongfei Li
 
 # Username (this should match the folder name)
 authors:
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. Business Administration
+    institution: University of Connecticut
+    year: June 2020 (Expected)
+  - course: M.S. Information Science
+    institution: Renmin University of China
+    year: June 2015
+  - course: B.S. Information Systems 
+    institution: Renmin University of China
+    year: June 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:hongfei@uconn.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
