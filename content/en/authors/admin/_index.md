@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Qi Qi
+name: Hongfei Li
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Survival Analysis, Bayesian Methods, Longitudinal Data Analysis, Joint Modeling, Stochastic Models, Data Visualization, Machine Learning, Data Mining, Statistical Computing.
+bio: Hongfei Li is a fifth-year Ph.D. student from Department of Operations and Information Management of School of Business, at the University of Connecticut. He expects to graduate by May 2020. His current research focuses on three main streams.
 
 interests:
 - Survival Analysis
@@ -31,13 +31,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Statistics
+  - course: Ph.D. in Business Administration
     institution: University of Connecticut
     year: 2017
-  - course: MS in Statistics
+  - course: M.S. in Information Science
     institution: University of Connecticut
     year: 2015
-  - course: BS in Statistics
+  - course: B.S. in Information Systems
     institution: Remin University of China
     year: 2011
 
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:qi.2.qi@uconn.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hongfei.li@uconn.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/qi-qi-a5b241117/
