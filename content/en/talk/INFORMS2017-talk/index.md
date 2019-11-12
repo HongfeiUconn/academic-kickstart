@@ -1,9 +1,9 @@
 ---
-title:  A Multi-Stage Stochastic Model in the Analysis of Longitudinal Data
-event: Conference on Bayesian Modeling, Computation and Applications 2018
+title:  Impacts of Online Diaries on Sales of Credence Goods: Evidence from a Cosmetic Surgery Platform
+event: INFORMS Annual Meeting, Computation and Applications 2018
 
 
-location: Oak Hall, University of Connecticut
+location: Houston, Texas
 address:
   street: 363-367 Fairfield Way
   city: Storrs
