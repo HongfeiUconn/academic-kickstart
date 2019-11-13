@@ -1,5 +1,5 @@
 ---
-title: Predicting Alzheimer's Disease Using a New Classification System Based on Objective Memory Impairment Assessment
+title: Impacts of Online Diaries on Sales of Credence Goods: Evidence from a Cosmetic Surgery Platform
 event: The 33rd New England Statistics Symposium (NESS) 2019
 
 
