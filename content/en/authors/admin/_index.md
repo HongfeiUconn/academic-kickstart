@@ -35,7 +35,7 @@ education:
     institution: University of Connecticut
     year: 2013.09 - 2015.06
   - course: B.S. in Information Systems
-    institution: Remin University of China
+    institution: Renmin University of China
     year: 2009.09 - 2013.06
 
 # Social/Academic Networking
