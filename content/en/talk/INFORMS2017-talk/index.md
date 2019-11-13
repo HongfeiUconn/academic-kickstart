@@ -4,7 +4,7 @@ event: INFORMS Annual Meeting 2017
 
 
 
-location: Houston
+location: The George R. Brown Convention Center and Hilton Americas-Houston Hotel
 address:
   street: 1001 Avenida de las Americas
   city: Houston
