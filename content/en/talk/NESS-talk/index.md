@@ -23,8 +23,6 @@ all_day: false
 
 
 
-projects:
-- b-project
 
 ---
 
