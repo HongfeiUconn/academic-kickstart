@@ -30,13 +30,13 @@ education:
   courses:
   - course: Ph.D. in Business Administration
     institution: University of Connecticut
-    year: 2017
+    year: 2015.08 - 2020.06
   - course: M.S. in Information Science
     institution: University of Connecticut
-    year: 2015
+    year: 2013.09 - 2015.06
   - course: B.S. in Information Systems
     institution: Remin University of China
-    year: Sep 2009 - Jun 2013
+    year: 2009.09 - 2013.06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -48,10 +48,10 @@ social:
   link: 'mailto:hongfei.li@uconn.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/qi-qi-a5b241117/
+  link: https://www.linkedin.com/in/hongfei-li-29019a145/
 - icon: github
   icon_pack: fab
-  link: https://github.com/qiq15001
+  link: https://github.com/HongfeiUconn/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
