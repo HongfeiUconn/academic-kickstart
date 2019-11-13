@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Hongfei Li
+name: 李鸿飞
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Connecticut
+- name: 康涅狄格大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
