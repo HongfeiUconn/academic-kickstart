@@ -22,7 +22,7 @@ date: "2019-05-16T16:00:00Z"
 all_day: false
 
 
-
+projects = []
 
 ---
 
