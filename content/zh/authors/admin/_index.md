@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: 博士候选人
 
 # Organizations/Affiliations
 organizations:
@@ -30,13 +30,13 @@ education:
   courses:
   - course: 工商管理博士
     institution: 康涅狄格大学
-    year: 2015.08 - 2020.06
-  - course: M.S. in Information Science
-    institution: University of Connecticut
-    year: 2013.09 - 2015.06
-  - course: B.S. in Information Systems
-    institution: Renmin University of China
-    year: 2009.09 - 2013.06
+    year: 2015年8月 - 2020年6月
+  - course: 情报学硕士
+    institution: 中国人民大学
+    year: 2013年9月 - 2015年6月
+  - course: 信息系统学士
+    institution: 中国人民大学
+    year: 2009年9月 - 2013年6月
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -68,11 +68,11 @@ user_groups:
 - Visitors
 ---
 
-Hongfei Li is a fifth-year Ph.D. student from [Department of Operations and Information Management](https://opim.business.uconn.edu/) of [School of Business](https://www.business.uconn.edu/), at the [University of Connecticut](https://uconn.edu/). He expects to graduate by May 2020. His current research focuses on three main streams: 
+李鸿飞是一名第五年博士生，目前就读于[康涅狄格大学](https://uconn.edu/)[商学院](https://www.business.uconn.edu/)[运营与信息管理系](https://opim.business.uconn.edu/)。他将与2020年五月毕业。他目前的研究主要集中在三个方向：
 
-* Business analytics in emerging online platforms
-* Applications of artificial intelligence and machine Learning 
-* Statistical methodology
+* 新型平台的商业分析
+* 人工智能和机器学习的应用
+* 统计学方法
 
 He has one paper under the third-round review at [ACM Transaction in MIS](https://tmis.acm.org/) and one paper under revision for the second-round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre). He also has one paper under first-round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre) and one paper under the first-round review at [MIS Quarterly](https://www.misq.org/). During his Ph.D. career, he has taught two courses: operations management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) and business information systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)).
 
