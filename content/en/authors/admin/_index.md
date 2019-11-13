@@ -36,7 +36,7 @@ education:
     year: 2015
   - course: B.S. in Information Systems
     institution: Remin University of China
-    year: 2009-2013
+    year: Sep 2009 - Jun 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
