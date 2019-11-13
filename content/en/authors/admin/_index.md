@@ -21,13 +21,10 @@ organizations:
 bio: Hongfei Li is a fifth-year Ph.D. student from Department of Operations and Information Management of School of Business, at the University of Connecticut. He expects to graduate by May 2020. His current research focuses on three main streams.
 
 interests:
-- Survival Analysis
-- Bayesian Methods
-- Longitudinal Data Analysis
-- Stochastic Models
-- Data Visualization
-- Machine Learning
-- Statistical Computing
+- Business analytics in emerging online platforms
+- Applications of artificial intelligence and machine Learning
+- Statistical methodology
+
 
 education:
   courses:
@@ -39,7 +36,7 @@ education:
     year: 2015
   - course: B.S. in Information Systems
     institution: Remin University of China
-    year: 2011
+    year: 2009-2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
