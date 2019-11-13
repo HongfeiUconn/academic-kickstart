@@ -75,5 +75,5 @@ user_groups:
 * 统计学方法
 
 他目前在[ACM Transaction in MIS](https://tmis.acm.org/)发表了一篇文章。他有一篇文章在[Information Systems Research](https://pubsonline.informs.org/journal/isre)准备二审，以及一篇文章在[Organization Science](https://pubsonline.informs.org/journal/orsc)
-被拒并准备重新提交。同时，他还有两篇文章分别在[Information Systems Research](https://pubsonline.informs.org/journal/isre)和[MIS Quarterly](https://www.misq.org/)一审。在他读博士期间，他教过两门课程：[运营管理]([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/))和商业信息系统 ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/))。
+被拒并准备重新提交。同时，他还有两篇文章分别在[Information Systems Research](https://pubsonline.informs.org/journal/isre)和[MIS Quarterly](https://www.misq.org/)一审。在他读博士期间，他教过两门课程：运营管理([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/))和商业信息系统 ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/))。
 
