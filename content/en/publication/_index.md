@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Hongfei Li, Ramesh Shankar, Jan Stallaert. Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities. ACM Transactions on Management Information Systems. Forthcoming."
+  caption: "Hongfei Li, Ramesh Shankar, and Jan Stallaert. Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities. ACM Transactions on Management Information Systems. Forthcoming."
   image: ""
 ---
