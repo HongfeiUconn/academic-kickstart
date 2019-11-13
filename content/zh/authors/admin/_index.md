@@ -18,18 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hongfei Li is a fifth-year Ph.D. student from Department of Operations and Information Management of School of Business, at the University of Connecticut. He expects to graduate by May 2020. His current research focuses on three main streams.
+bio: 李鸿飞是一名第五年博士生，目前就读于康涅狄格大学商学院运营与信息管理系。他将与2020年五月毕业。他目前的研究主要集中在三个方向：
 
 interests:
-- Business analytics in emerging online platforms
-- Applications of artificial intelligence and machine Learning
-- Statistical methodology
+- 新型平台的商业分析
+- 人工智能和机器学习的应用
+- 统计学方法
 
 
 education:
   courses:
-  - course: Ph.D. in Business Administration
-    institution: University of Connecticut
+  - course: 工商管理博士
+    institution: 康涅狄格大学
     year: 2015.08 - 2020.06
   - course: M.S. in Information Science
     institution: University of Connecticut
