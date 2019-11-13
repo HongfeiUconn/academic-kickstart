@@ -3,6 +3,7 @@ title: Impacts of Online Diaries on Sales of Credence Goods: Evidence from a Cos
 event: INFORMS Annual Meeting 2017
 
 
+
 location: Houston, Texas
 address:
   street: 1001 Avenida de las Americas
