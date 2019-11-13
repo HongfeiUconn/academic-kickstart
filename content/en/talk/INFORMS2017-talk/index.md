@@ -1,18 +1,18 @@
 ---
 title:  Impacts of Online Diaries on Sales of Credence Goods: Evidence from a Cosmetic Surgery Platform
-event: INFORMS Annual Meeting, Computation and Applications 2018
+event: INFORMS Annual Meeting 2017
 
 
 location: Houston, Texas
 address:
-  street: 363-367 Fairfield Way
-  city: Storrs
-  region: CT
-  postcode: '06279'
+  street: 1001 Avenida de las Americas
+  city: Houston
+  region: Texas
+  postcode: '77010'
   country: United States
 
 
-abstract: "Multi-stage transition model is playing an important role in dementia studies. Since death is a significant source of missing data in longitudinal epidemiological studies on elderly individuals, we consider four stages: normality, memory-impaired intermediate, dementia and death without dementia. To analyze longitudinal data, we develop the likelihood function based on a first order Markov chain model consisting of transitional probabilities between stages. Different from the typical illness-death model, we construct a reversible transition model between normality and memory-impaired intermediate. We use Kolmogorov’s backward equations to derive the probability of transition and ordinal logistic regression to investigate what covariates have significant influence on the transition."
+abstract: "Credence goods are defined as products whose quality is difficult to evaluate. While online reviews have found to be effective in driving sales of search and experience goods, little is known about its effectiveness on credence goods. Using data from a cosmetic surgery platform, we investigate the impact of a novel form of online reviews, i.e. diaries, on the sales of credence goods. We also examine how the effects are moderated by the risk of surgeries. We focus on two diary features: number of images and post duration. We find the number of images has a positive impact on sales and the effects are stronger for more risky surgeries. These findings shed some light on the online marketing of credence goods."
 
 
 view: 3
@@ -21,7 +21,7 @@ view: 3
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-05-12T16:00:00Z"
+date: "2017-10-24T10:30:00Z"
 all_day: false
 
 
@@ -31,8 +31,6 @@ all_day: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- c-project
 
 ---
 
