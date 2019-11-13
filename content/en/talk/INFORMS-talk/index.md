@@ -4,7 +4,7 @@ event: INFORMS Annual Meeting 2017
 
 
 
-location: Houston, Texas
+location: Houston
 address:
   street: 1001 Avenida de las Americas
   city: Houston
