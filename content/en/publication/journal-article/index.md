@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: "Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities"
 authors:
 - admin
-- Robert Ford
+- [Ramesh Shankar](https://www.business.uconn.edu/person/ramesh-shankar/)
+- [Jan Stallaert](https://www.business.uconn.edu/person/jan-stallaert/)
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -19,10 +20,10 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Online communities that curate knowledge critically depend on high-quality contributions from anonymous expert users. Understanding users’ motivation to contribute knowledge helps practitioners design such websites for optimal user contribution and user benefits. Researchers have studied reciprocity as a motivation for users to share knowledge online. In this study, we focus on two different types of reciprocity as drivers of online contribution: ex post and ex ante reciprocity. Ex post reciprocity refers to users who received help from others in the past, and pay back by helping others at present. Using a quasi-experiment performed via the instrumental variable method as the identification strategy, we test whether users who received more answers last week answer more questions in the current week on StackOverflow.com. We find a significant positive relationship between ex post reciprocity and knowledge contribution, and such a reciprocal motivation diminishes with time. Ex ante reciprocity refers to people helping others in expectation of future help from others. Using data from StackOverflow.com, we take advantage of a natural experiment with a difference-in-differences analysis and find evidence supporting the existence of ex ante reciprocity. This study offers a new taxonomy for reciprocity and new insights on how reciprocity drives online knowledge sharing.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper develops and studies two different types of reciprocity: ex post and ex ante reciprocity and how they affect users' knowledge contribution.
 
 tags:
 - Source Themes
