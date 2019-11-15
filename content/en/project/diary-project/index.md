@@ -10,7 +10,9 @@ view: 3
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "diary.jpg"
+  image: ""
+# diary.jpg  image is too large, try to find a way to adjust the size
+
 ---
 
 Hongfei Li, Jing Peng, Gang Wang, Xue Bai. Online Diaries and Professional Service. Under Revision for 2nd Round Review at Information Systems Research.
