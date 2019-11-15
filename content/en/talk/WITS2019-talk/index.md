@@ -1,6 +1,5 @@
 ---
-title: "When More is Less: The Effect of Add-on Insurance on the Consumption of Professional Services
-"
+title: "When More is Less: The Effect of Add-on Insurance on the Consumption of Professional Services"
 event: WITS 2019
 
 
