@@ -2,8 +2,8 @@
 title: "Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities"
 authors:
 - admin
-- [Ramesh Shankar](https://www.business.uconn.edu/person/ramesh-shankar/)
-- [Jan Stallaert](https://www.business.uconn.edu/person/jan-stallaert/)
+- Ramesh Shankar
+- Jan Stallaert
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*ACM Transactions on Management Information Systems*"
-publication_short: ""
+publication_short: "TMIS"
 
 abstract: "Online communities that curate knowledge critically depend on high-quality contributions from anonymous expert users. Understanding users’ motivation to contribute knowledge helps practitioners design such websites for optimal user contribution and user benefits. Researchers have studied reciprocity as a motivation for users to share knowledge online. In this study, we focus on two different types of reciprocity as drivers of online contribution: ex post and ex ante reciprocity. Ex post reciprocity refers to users who received help from others in the past, and pay back by helping others at present. Using a quasi-experiment performed via the instrumental variable method as the identification strategy, we test whether users who received more answers last week answer more questions in the current week on StackOverflow.com. We find a significant positive relationship between ex post reciprocity and knowledge contribution, and such a reciprocal motivation diminishes with time. Ex ante reciprocity refers to people helping others in expectation of future help from others. Using data from StackOverflow.com, we take advantage of a natural experiment with a difference-in-differences analysis and find evidence supporting the existence of ex ante reciprocity. This study offers a new taxonomy for reciprocity and new insights on how reciprocity drives online knowledge sharing."
 
