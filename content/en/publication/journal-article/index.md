@@ -2,8 +2,8 @@
 title: "Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities"
 authors:
 - admin
-- [Ramesh Shankar](https://www.business.uconn.edu/person/ramesh-shankar/)
-- [Jan Stallaert](https://www.business.uconn.edu/person/jan-stallaert/)
+- Ramesh Shankar
+- Jan Stallaert
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
