@@ -8,9 +8,6 @@ title: Teaching
 view: 2
 
 
-This is a test
-
-
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
