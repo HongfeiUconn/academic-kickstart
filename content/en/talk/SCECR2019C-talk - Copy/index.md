@@ -1,6 +1,6 @@
 ---
 title: "The Impact of Ex post Risk-Reduction Mechanism on Online Sales: Evidence from Complications Insurance for Cosmetic Surgeries"
-event: SCECR 2019
+event: WITS 2019
 
 
 
@@ -19,7 +19,7 @@ view: 3
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-11T16:00:00Z"
+date: "2019-12-11T16:00:00Z"
 all_day: false
 
 
