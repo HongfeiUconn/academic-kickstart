@@ -1,5 +1,5 @@
 ---
-title: "Online Diaries and Professional Service"
+title: "The Impact of Ex post Risk-Reduction Mechanism on Online Sales: Evidence from Complications Insurance for Cosmetic Surgeries"
 event: SCECR 2019
 
 

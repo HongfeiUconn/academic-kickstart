@@ -4,7 +4,7 @@ event: INFORMS Annual Meeting 2019
 
 
 
-location: Washington State Convention Center and Sheraton Grand Seattle Hotel
+location: Washington State Convention Center
 address:
   street: 705 Pike Street
   city: Seattle
