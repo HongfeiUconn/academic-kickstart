@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 李鸿飞
+name: Hongfei Li
 
 # Username (this should match the folder name)
 authors:
@@ -10,33 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: 博士候选人
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: 康涅狄格大学
-  url: ""
+- name: University of Connecticut
+  url: "https://uconn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 李鸿飞是一名第五年博士生，目前就读于康涅狄格大学商学院运营与信息管理系。他将与2020年五月毕业。他目前的研究主要集中在三个方向：
+bio: Hongfei Li is a fifth-year Ph.D. student from Department of Operations and Information Management of School of Business, at the University of Connecticut. He expects to graduate by May 2020. His current research focuses on business analytics in emerging online platforms, applications of artificial intelligence and machine Learning, and statistical methodology.
 
-interests:
-- 新型平台的商业分析
-- 人工智能和机器学习的应用
-- 统计学方法
+# interests:
+# - Survival Analysis
+# - Bayesian Methods
+# - Longitudinal Data Analysis
+# - Stochastic Models
+# - Data Visualization
+# - Machine Learning
+# - Statistical Computing
 
-
-education:
-  courses:
-  - course: 工商管理博士
-    institution: 康涅狄格大学
-    year: 2015年8月 - 2020年6月
-  - course: 情报学硕士
-    institution: 中国人民大学
-    year: 2013年9月 - 2015年6月
-  - course: 信息系统学士
-    institution: 中国人民大学
-    year: 2009年9月 - 2013年6月
+# education:
+#   courses:
+#   - course: Ph.D. in Business Administration
+#     institution: University of Connecticut
+#     year: 2020.06
+#   - course: M.S. in Information Science
+#     institution: Renmin University of China
+#     year: 2015.06
+#   - course: B.S. in Information Systems
+#     institution: Renmin University of China
+#     year: 2013.06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,6 +55,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/HongfeiUconn/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/profile.php?id=100010079380710
+- icon: home
+  icon_pack: fas
+  link: https://www.business.uconn.edu/person/hongfei-li/
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -68,12 +78,11 @@ user_groups:
 - Visitors
 ---
 
-李鸿飞是一名第五年博士生，目前就读于[康涅狄格大学](https://uconn.edu/)[商学院](https://www.business.uconn.edu/)[运营与信息管理系](https://opim.business.uconn.edu/)。他将与2020年五月毕业。他目前的研究主要集中在三个方向：
+Hongfei Li is a fifth-year Ph.D. student from [Department of Operations and Information Management](https://opim.business.uconn.edu/) of [School of Business](https://www.business.uconn.edu/), at the [University of Connecticut](https://uconn.edu/). He expects to graduate by May 2020. His current research focuses on three main streams: 
 
-* 新型平台的商业分析
-* 人工智能和机器学习的应用
-* 统计学方法
+* Business analytics in emerging online platforms
+* Applications of artificial intelligence and machine Learning 
+* Statistical methodology
 
-他目前在[ACM Transaction in MIS](https://tmis.acm.org/)发表了一篇文章。他有一篇文章在[Information Systems Research](https://pubsonline.informs.org/journal/isre)准备二审，以及一篇文章在[Organization Science](https://pubsonline.informs.org/journal/orsc)
-被拒并准备重新提交。同时，他还有两篇文章分别在[Information Systems Research](https://pubsonline.informs.org/journal/isre)和[MIS Quarterly](https://www.misq.org/)一审。在他读博士期间，他教过两门课程：运营管理([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/))和商业信息系统 ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/))。
+He has one paper under the third-round review at [ACM Transaction in MIS](https://tmis.acm.org/) and one paper under revision for the second-round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre). He also has one paper under first-round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre) and one paper under the first-round review at [MIS Quarterly](https://www.misq.org/). During his Ph.D. career, he has taught two courses: operations management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) and business information systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)). He is interested in teaching technical courses related to mathematics, statistics, econometrics, and computer language in business application, such as _business analytics_, _web analytics_, _data science_, _machine learning_, _business statistics_, _econometrics_, and _database systems_.
 
