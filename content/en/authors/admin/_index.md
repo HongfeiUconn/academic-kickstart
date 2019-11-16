@@ -15,7 +15,7 @@ role: Ph.D. Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Connecticut
-  url: ""
+  url: "https://uconn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hongfei Li is a fifth-year Ph.D. student from Department of Operations and Information Management of School of Business, at the University of Connecticut. He expects to graduate by May 2020. His current research focuses on business analytics in emerging online platforms, applications of artificial intelligence and machine Learning, and statistical methodology.
@@ -77,5 +77,5 @@ Hongfei Li is a fifth-year Ph.D. student from [Department of Operations and Info
 * Applications of artificial intelligence and machine Learning 
 * Statistical methodology
 
-He has one paper under the third-round review at [ACM Transaction in MIS](https://tmis.acm.org/) and one paper under revision for the second-round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre). He also has one paper under first-round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre) and one paper under the first-round review at [MIS Quarterly](https://www.misq.org/). During his Ph.D. career, he has taught two courses: operations management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) and business information systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)).
+He has one paper under the third-round review at [ACM Transaction in MIS](https://tmis.acm.org/) and one paper under revision for the second-round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre). He also has one paper under first-round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre) and one paper under the first-round review at [MIS Quarterly](https://www.misq.org/). During his Ph.D. career, he has taught two courses: operations management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) and business information systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)). He is interested in teaching technical courses related to mathematics, statistics, econometrics, and computer language in business application, such as business analytics, machine learning, business statistics, econometrics, and database systems.
 
