@@ -2,9 +2,20 @@
 title: "Online Diaries and Risky Products"
 authors:
 - admin
+- Jing Peng
+- Gang Wang
+- Xue Bai
 event: CIST 2018
 
-
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  preview_only: false
 
 location: Phoenix Convention Center
 address:
