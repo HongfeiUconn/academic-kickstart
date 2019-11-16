@@ -1,5 +1,7 @@
 ---
 title: "Online Diaries and Risky Products"
+authors:
+- admin
 event: CIST 2018
 
 
