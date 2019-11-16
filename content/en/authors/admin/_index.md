@@ -18,12 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hongfei Li is a fifth-year Ph.D. student from Department of Operations and Information Management of School of Business, at the University of Connecticut. He expects to graduate by May 2020. His current research focuses on three main streams.
-
-interests:
-- Business analytics in emerging online platforms
-- Applications of artificial intelligence and machine Learning
-- Statistical methodology
+bio: Hongfei Li is a fifth-year Ph.D. student from Department of Operations and Information Management of School of Business, at the University of Connecticut. He expects to graduate by May 2020. His current research focuses on business analytics in emerging online platforms, applications of artificial intelligence and machine Learning, and statistical methodology.
 
 
 education:
@@ -32,7 +27,7 @@ education:
     institution: University of Connecticut
     year: 2015.08 - 2020.06
   - course: M.S. in Information Science
-    institution: University of Connecticut
+    institution: Renmin University of China
     year: 2013.09 - 2015.06
   - course: B.S. in Information Systems
     institution: Renmin University of China
