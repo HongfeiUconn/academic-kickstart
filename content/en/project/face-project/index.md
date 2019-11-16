@@ -5,9 +5,10 @@ summary: This paper adopts generative adversarial networks to perform face predi
 
 authors:
 - Fangda Han
+- Shun-Yang Lee
 - admin
 - Jing Peng
-- Shun-Yang Lee
+
 
 image:
   caption: "Model—Conditional Generative Adversarial Networks"
