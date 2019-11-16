@@ -26,7 +26,9 @@ abstract: "Online communities that curate knowledge critically depend on high-qu
 summary: "This paper develops and studies two different types of reciprocity: ex post and ex ante reciprocity and how they affect users' knowledge contribution."
 
 tags:
-- Source Themes
+- Causal Inference
+- Business Analytics
+
 featured: true
 
 # links:
