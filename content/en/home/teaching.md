@@ -18,17 +18,26 @@ subtitle = ""
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "School of Business, University of Connecticut"
+  organization_url = "https://opim.business.uconn.edu/"
+  title = "Workshop in Neural Networks"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-11-05"
+  date_end = ""
+  description = "The main contents of this workshop include the basic knowledge of neural networks such as model representation, cost function, back-propagation, convolutional neural networks, and generative adversarial networks."
+
 [[item]]
   organization = "School of Business, University of Connecticut"
   organization_url = "https://opim.business.uconn.edu/"
   title = "Business Information Systems (OPIM 3103)"
   url = "https://hongfeiuconn.github.io/OPIM3103/"
   certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
-  description = "
-  - test
-  - test"
+  date_start = "2018-08-27"
+  date_end = "2018-12-05"
+  description = "The main contents of this course include: 1) the introduction to Microsoft Excel and the design of spreadsheets to enable efficient decision making in business situations, through hands-on learning activities; 2) The introduction to basic knowledge of databases, the design of databases, and database tools such as Microsoft Access to enable efficient data management and reporting in business situations, again through hands-on learning activities."
   
 [[item]]
   organization = "School of Business, University of Connecticut"
@@ -36,9 +45,9 @@ subtitle = ""
   title = "Operations Management (OPIM 3104), Summer"
   url = "https://hongfeiuconn.github.io/OPIM3104/"
   certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
-  description = "Operations Management (OM) designs, operates and improves productive systems, by managing the function that transforms inputs (materials, machines, labor, and capital) into outputs (products and services) of greater value. As a central function area of any business organization, OM has gained increasing recognition as a source of competitive advantage, presenting great challenges as well as tremendous opportunities, for a company to succeed in today’s global business environment with the advent of information technology. In this course, students will learn what functions OM performs, why it is important, and how to make business decisions in the field of OM. We introduce both fundamental concepts and quantitative models of operations management. Topics covered in detail are decision making tools, forecasting techniques, inventory management, aggregate planning, waiting line analysis, and etc. The objective is to help students develop a systematic working knowledge of the concepts and methods related to designing and managing operations."
+  date_start = "2018-07-09"
+  date_end = "2018-08-08"
+  description = "The main contents of this course include decision-making tools, forecasting, project management, inventory management, and linear programming."
 
 [[item]]
   organization = "School of Business, University of Connecticut"
@@ -48,6 +57,6 @@ subtitle = ""
   certificate_url = ""
   date_start = "2018-01-16"
   date_end = "2018-04-26"
-  description = "Operations Management (OM) designs, operates and improves productive systems, by managing the function that transforms inputs (materials, machines, labor, and capital) into outputs (products and services) of greater value. As a central function area of any business organization, OM has gained increasing recognition as a source of competitive advantage, presenting great challenges as well as tremendous opportunities, for a company to succeed in today’s global business environment with the advent of information technology. In this course, students will learn what functions OM performs, why it is important, and how to make business decisions in the field of OM. We introduce both fundamental concepts and quantitative models of operations management. Topics covered in detail are decision making tools, forecasting techniques, inventory management, aggregate planning, waiting line analysis, and etc. The objective is to help students develop a systematic working knowledge of the concepts and methods related to designing and managing operations."
+  description = "The main contents of this course include decision-making tools, forecasting, project management, inventory management, and linear programming."
 +++
 
