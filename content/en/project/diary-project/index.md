@@ -1,6 +1,6 @@
 ---
 title: "Online Diaries and Professional Service"
-
+summary: This paper studies.
 # View.
 #   1 = List
 #   2 = Compact
@@ -8,10 +8,14 @@ title: "Online Diaries and Professional Service"
 view: 3
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
-# diary.jpg  image is too large, try to find a way to adjust the size
+# header:
+#   caption: ""
+#   image: ""
+
+image:
+  caption: An Example of an Online Diary
+  focal_point: Smart
+
 
 ---
 
