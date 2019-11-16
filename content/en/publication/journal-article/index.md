@@ -34,7 +34,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Reciprocity**](https://images.app.goo.gl/RJZee3k8A7uDVxkv6)'
   focal_point: ""
   preview_only: false
 
