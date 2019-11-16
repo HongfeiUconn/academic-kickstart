@@ -25,13 +25,13 @@ education:
   courses:
   - course: Ph.D. in Business Administration
     institution: University of Connecticut
-    year: 2015.08 - 2020.06
+    year: 2020.06
   - course: M.S. in Information Science
     institution: Renmin University of China
-    year: 2013.09 - 2015.06
+    year: 2015.06
   - course: B.S. in Information Systems
     institution: Renmin University of China
-    year: 2009.09 - 2013.06
+    year: 2013.06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

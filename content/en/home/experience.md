@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Ph.D. in Business Administration"
+  company = "School of Business, University of Connecticut"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Storrs, CT, USA"
+  date_start = "2015-08-31"
   date_end = ""
   description = """
   Responsibilities include:
@@ -33,12 +33,26 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "M.S. in Information Science"
+  company = "School of Information Resource Management, Renmin University of China"
   company_url = ""
-  location = "California"
+  location = "Beijing, China"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  * Thesis: “An Empirical Study on the Factors of Mobile Online Game Players’ Continuance Participating Based on Extended ECM-ISC"
+  """
+  
+[[experience]]
+  title = "B.S. in Information Systems"
+  company = "School of Information Resource Management, Renmin University of China"
+  company_url = ""
+  location = "Beijing, China"
+  date_start = "2009-09-09"
+  date_end = "2013-06-30"
+  description = """
+  * Thesis: “An Empirical Study on the Affecting Factors of College Students’ Self-disclosure on Social Network Sites” (Outstanding Bachelor Thesis Award)	
+  
+  """
 
 +++
