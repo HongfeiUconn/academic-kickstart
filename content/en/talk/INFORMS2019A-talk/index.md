@@ -33,7 +33,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Washington State Convention Center, Seattle, WA**](https://images.app.goo.gl/eAdPAM5zFN29BmQn9)'
+  caption: 'Image credit: [**Space Needle, Seattle, WA**](https://images.app.goo.gl/J34xkLT55RfhfAmRA)'
   focal_point: "Bottom"
   preview_only: false
 ---
