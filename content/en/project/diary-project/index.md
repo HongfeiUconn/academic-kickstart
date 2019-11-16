@@ -1,16 +1,6 @@
 ---
 title: "Online Diaries and Professional Service"
-summary: This paper studies.
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 3
-
-# Optional header image (relative to `static/img/` folder).
-# header:
-#   caption: ""
-#   image: ""
+summary: This paper studies a novel form of eWOM, online diaries.
 
 image:
   caption: An Example of an Online Diary
