@@ -1,5 +1,9 @@
 ---
 title: "Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities"
+authors:
+- admin
+- Ramesh Shankar
+- Jan Stallaert
 event: SCECR 2018
 
 
@@ -22,7 +26,15 @@ view: 3
 date: "2018-06-19T14:30:00Z"
 all_day: false
 
-
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: 'Image credit: [**Windmills at Kinderdijk, Netherlands**](https://images.app.goo.gl/2SAAfVkgi4Tzha8S6)'
+  focal_point: "Bottom"
+  preview_only: false
 ---
 
 

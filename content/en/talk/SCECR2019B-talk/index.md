@@ -1,5 +1,10 @@
 ---
 title: "Online Diaries and Professional Service"
+authors:
+- admin
+- Jing Peng
+- Gang Wang
+- Xue Bai
 event: SCECR 2019
 
 
@@ -22,6 +27,15 @@ view: 3
 date: "2019-06-11T16:00:00Z"
 all_day: false
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: 'Image credit: [**The George R. Brown Convention Center**](https://www.eypae.com/client/houstonfirst-corporation/george-r-brown-convention-center)'
+  focal_point: "Bottom"
+  preview_only: false
 
 ---
 

@@ -33,7 +33,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Grand Canyon National Park, Arizona**](https://images.app.goo.gl/kwqgqNfEAAwjFmuAA)'
   focal_point: "Bottom"
   preview_only: false
 ---
