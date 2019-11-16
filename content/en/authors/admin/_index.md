@@ -58,6 +58,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/profile.php?id=100010079380710
+- icon: home
+  icon_pack: fas
+  link: https://www.business.uconn.edu/person/hongfei-li/
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
