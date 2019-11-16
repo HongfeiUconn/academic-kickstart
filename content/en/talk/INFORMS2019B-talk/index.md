@@ -32,7 +32,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**The George R. Brown Convention Center**](https://www.eypae.com/client/houstonfirst-corporation/george-r-brown-convention-center)'
+  caption: 'Image credit: [**Washington State Convention Center**](https://images.app.goo.gl/yjDaQUA6nJPwijbk9)'
   focal_point: "Bottom"
   preview_only: false
 ---
