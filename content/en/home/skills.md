@@ -27,10 +27,21 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "table"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Stata"
+  description = "85%"
   
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "95%"
+  
+[[feature]]
+  icon = "file-excel"
+  icon_pack = "fas"
+  name = "Excel"
+  description = "85%" 
 
 +++
