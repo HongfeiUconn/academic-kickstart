@@ -25,8 +25,9 @@ date_format = "Jan 2006"
   date_start = "2015-08-31"
   date_end = ""
   description = """
-
+  <br />
   * Dissertation: “Essays on Emerging Risk-Reduction Strategies in Online Marketplaces for Professional Services”
+  * Advisor: [Jan Stallaert](https://www.business.uconn.edu/person/jan-stallaert/), [Xinxin Li](https://www.business.uconn.edu/person/xinxin-li/), [Jing Peng](https://www.business.uconn.edu/person/jing-peng/)
   """
 
 [[experience]]
@@ -39,7 +40,7 @@ date_format = "Jan 2006"
   description = """
   
   * Thesis: “An Empirical Study on the Factors of Mobile Online Game Players’ Continuance Participating Based on Extended ECM-ISC"
-  * Advisor: [Jan Stallaert](https://www.business.uconn.edu/person/jan-stallaert/), [Xinxin Li](https://www.business.uconn.edu/person/xinxin-li/), [Jing Peng](https://www.business.uconn.edu/person/jing-peng/)
+
   """
   
 [[experience]]
