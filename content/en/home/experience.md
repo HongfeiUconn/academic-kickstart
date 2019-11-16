@@ -25,11 +25,8 @@ date_format = "Jan 2006"
   date_start = "2015-08-31"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Dissertation: “Essays on Emerging Risk-Reduction Strategies in Online Marketplaces for Professional Services”
   """
 
 [[experience]]
@@ -37,10 +34,12 @@ date_format = "Jan 2006"
   company = "School of Information Resource Management, Renmin University of China"
   company_url = ""
   location = "Beijing, China"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2013-09-01"
+  date_end = "2015-06-30"
   description = """
+  
   * Thesis: “An Empirical Study on the Factors of Mobile Online Game Players’ Continuance Participating Based on Extended ECM-ISC"
+  * Advisor: [Jan Stallaert](https://www.business.uconn.edu/person/jan-stallaert/), [Xinxin Li](https://www.business.uconn.edu/person/xinxin-li/), [Jing Peng](https://www.business.uconn.edu/person/jing-peng/)
   """
   
 [[experience]]
@@ -51,6 +50,7 @@ date_format = "Jan 2006"
   date_start = "2009-09-09"
   date_end = "2013-06-30"
   description = """
+  
   * Thesis: “An Empirical Study on the Affecting Factors of College Students’ Self-disclosure on Social Network Sites” (Outstanding Bachelor Thesis Award)	
   
   """
