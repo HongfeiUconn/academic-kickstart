@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   <br />
+  
   * Dissertation: “Essays on Emerging Risk-Reduction Strategies in Online Marketplaces for Professional Services”
   * Advisor: [Jan Stallaert](https://www.business.uconn.edu/person/jan-stallaert/), [Xinxin Li](https://www.business.uconn.edu/person/xinxin-li/), [Jing Peng](https://www.business.uconn.edu/person/jing-peng/)
   """
@@ -40,6 +41,7 @@ date_format = "Jan 2006"
   description = """
   
   * Thesis: “An Empirical Study on the Factors of Mobile Online Game Players’ Continuance Participating Based on Extended ECM-ISC"
+  * Advisor: [Liqing Wang](http://sirm.ruc.edu.cn/faculty/information/2009/0420/27.html)
 
   """
   
@@ -53,6 +55,7 @@ date_format = "Jan 2006"
   description = """
   
   * Thesis: “An Empirical Study on the Affecting Factors of College Students’ Self-disclosure on Social Network Sites” (Outstanding Bachelor Thesis Award)	
+  * Advisor: [Ming Ren](http://sirm.ruc.edu.cn/faculty/technologies/2009/1121/155.html)
   
   """
 
