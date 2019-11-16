@@ -1,5 +1,10 @@
 ---
 title: "Impacts of Online Diaries on Sales of Credence Goods: Evidence from a Cosmetic Surgery Platform"
+authors:
+- admin
+- Gang Wang
+- Jing Peng
+- Xue Bai
 event: INFORMS Annual Meeting 2017
 
 
@@ -23,6 +28,15 @@ date: "2017-10-24T10:30:00Z"
 all_day: false
 
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: 'Image credit: [**The George R. Brown Convention Center**](https://www.eypae.com/client/houstonfirst-corporation/george-r-brown-convention-center)'
+  focal_point: "Bottom"
+  preview_only: false
 ---
 
 
