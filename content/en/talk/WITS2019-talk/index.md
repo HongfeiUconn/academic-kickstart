@@ -1,22 +1,23 @@
 ---
-title: "Invested or Indebted: Ex ante and Ex post Reciprocity in Online Knowledge Sharing Communities"
+title: "When More is Less: The Effect of Add-on Insurance on the Consumption of Professional Services"
 authors:
 - admin
-- Ramesh Shankar
+- Jing Peng
+- Xinxin Li
 - Jan Stallaert
-event: SCECR 2018
+event: WITS 2019
 
 
 
-location: Rotterdam School of Management, Erasmus University
+location: H4 Hotel München Messe
 address:
-  street: Burgemeester Oudlaan 50
-  city: Rotterdam
-  region: South Holland
-  postcode: '3062 PA'
-  country: Netherlands
+  street: H4 Hotel München Messe, Konrad-Zuse-Platz 14
+  city: Munich
+  region: Bavaria
+  postcode: '81829'
+  country: Germany
 
-abstract: "Online communities that curate knowledge critically depend on high-quality contributions from anonymous expert users. Understanding users’ motivation to contribute knowledge helps practitioners design such websites for optimal user contribution and user benefits. Researchers have studied reciprocity as a motivation for users to share knowledge online. In this study, we focus on two different types of reciprocity as drivers of online contribution: ex post and ex ante reciprocity. Ex post reciprocity refers to users who received help from others in the past, and pay back by helping others at present. Using a quasi-experiment performed via the instrumental variable method as the identification strategy, we test whether users who received more answers last week answer more questions in the current week on StackOverflow.com. We find a significant positive relationship between ex post reciprocity and knowledge contribution, and such a reciprocal motivation diminishes with time. Ex ante reciprocity refers to people helping others in expectation of future help from others. Using data from StackOverflow.com, we take advantage of a natural experiment with a difference-in-differences analysis and find evidence supporting the existence of ex ante reciprocity. This study offers a new taxonomy for reciprocity and new insights on how reciprocity drives online knowledge sharing."
+abstract: "The perceived risk of professional services (e.g., education and surgeries) is typically much higher than that of commodity goods, due to the highly consequential nature of these services and the large information asymmetries between customers and service providers. Therefore, risk management (e.g., reducing the risks of prospective customers) is of the essence to professional services. In this paper, we study how the introduction of a risk-reduction strategy affects the demand for professional services in online platforms. In doing so, we leverage a natural experiment on an online platform for cosmetic procedures, which started to offer complications insurance, i.e., a type of add-on insurance covering the potential cost of surgical malpractice or complications, for a subset of cosmetic procedures in 2016. Our empirical study shows that this risk-reduction strategy has asymmetric effects on low-risk and high-risk procedures. Specifically, the introduction of insurance increases the sales of low-risk procedures, but has no significant effect on the sales of high-risk procedures. More importantly, the insurance has a negative spillover effect on uninsured competitors, regardless of their risk levels. The negative spillover effect of insurance on high-risk procedures is rather intriguing because it hurts the sales of uninsured procedures without increasing the sales of their insured competitors, and thus cannot be explained by demand cannibalization, the common explanation behind negative spillover effects. We discuss a possible explanation in the paper. Our findings have important implications for platforms to design and evaluate their risk-reduction strategies."
 
 view: 3
 
