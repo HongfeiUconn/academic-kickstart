@@ -26,7 +26,9 @@ subtitle = ""
   certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
-  description = "Information Technology (IT) has transformed all aspects of 21st century business and everyday life. New IT investments continue to be staggering. IT has triggered new forms of organizations; transformed business process innovation; and impacted organizational structure, culture, politics, decision-making and society as a whole. IT is also transforming how physical products are designed, how services are bundled with products, and how individuals interact with businesses and with other individuals. A silent transformation of physical items is occurring as more and more products use embedded IT to improve customer experience and product performance. The pervasiveness of IT is expanding global trade and changing how and where work is performed. The availability of vast amounts of searchable data is changing the nature of the learning required to succeed in traditional business disciplines such as finance, accounting, and marketing. It is vital that future managers – from all majors – have a working knowledge of modern IT, practical experience in its use, and management perspectives on how IT is used to reshape products, services, and organizations. OPIM 3103 covers the use of Microsoft Excel spreadsheets, basic knowledge about databases, and database tools as with Microsoft Access."
+  description = "
+  - test
+  - test"
   
 [[item]]
   organization = "School of Business, University of Connecticut"
