@@ -24,7 +24,7 @@ view: 3
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-06-19T14:30:00Z"
+date: "2019-12-19T14:30:00Z"
 all_day: false
 
 # Featured image
@@ -33,7 +33,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Windmills at Kinderdijk, Netherlands**](https://images.app.goo.gl/2SAAfVkgi4Tzha8S6)'
+  caption: 'Image credit: [**Munich, Germany**](https://images.app.goo.gl/KVRWYJznbssYKmiJ7)'
   focal_point: "Bottom"
   preview_only: false
 ---
