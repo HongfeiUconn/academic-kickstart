@@ -19,17 +19,27 @@ subtitle = ""
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "School of Business, University of Connecticut"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
+  title = "Operations Management"
+  url = "https://hongfeiuconn.github.io/OPIM3104/"
   certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "School of Business, University of Connecticut"
+  organization_url = "https://www.coursera.org"
+  title = "Operations Management"
+  url = "https://hongfeiuconn.github.io/OPIM3104/"
+  certificate_url = ""
+  date_start = "2018-10-01"
+  date_end = ""
+  description = "Operations Management (OM) designs, operates and improves productive systems, by managing the function that transforms inputs (materials, machines, labor, and capital) into outputs (products and services) of greater value. As a central function area of any business organization, OM has gained increasing recognition as a source of competitive advantage, presenting great challenges as well as tremendous opportunities, for a company to succeed in today’s global business environment with the advent of information technology. In this course, students will learn what functions OM performs, why it is important, and how to make business decisions in the field of OM. We introduce both fundamental concepts and quantitative models of operations management. Topics covered in detail are decision making tools, forecasting techniques, inventory management, aggregate planning, waiting line analysis, and etc. The objective is to help students develop a systematic working knowledge of the concepts and methods related to designing and managing operations."
 
 [[item]]
-  organization = "edX"
+  organization = "School of Business, University of Connecticut"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
