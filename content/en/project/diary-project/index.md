@@ -1,6 +1,11 @@
 ---
 title: "Online Diaries and Professional Service"
 summary: This paper studies a novel form of eWOM, online diaries.
+authors:
+- admin
+- Jing Peng
+- Gang Wang
+- Xue Bai
 
 image:
   caption: An Example of an Online Diary
