@@ -1,7 +1,7 @@
 ---
-title: "When More is Less: The Effect of Add-on Insurance on the Consumption of Professional Services"
+title: "Analyzing the Online Word of Mouth Dynamics: A Novel Approach"
 
-summary: This paper studies a risk-reduction strategy and its spillover effect.
+summary: This paper puts forward a novel approach to deal with unstructured data under social media context.
 
 authors:
 - admin
@@ -10,21 +10,21 @@ authors:
 - Jan Stallaert
 
 image:
-  caption: A Procedure with the Insurance Option
+  caption: Multiple Sequential Canonical Covariance Analysis
   focal_point: Smart
 
 tags:
-- Deep Learning
 - Business Analytics
-- Causal Inference
+- Statistics
+- Machine Learning
 
 ---
 
 **Abstract**
 
-The perceived risk of professional services (e.g., education and surgeries) is typically much higher than that of commodity goods, due to the highly consequential nature of these services and the large information asymmetries between customers and service providers. Therefore, risk management (e.g., reducing the risks of prospective customers) is of the essence to professional services. In this paper, we study how the introduction of a risk-reduction strategy affects the demand for professional services in online platforms. In doing so, we leverage a natural experiment on an online platform for cosmetic procedures, which started to offer complications insurance, i.e., a type of add-on insurance covering the potential cost of surgical malpractice or complications, for a subset of cosmetic procedures in 2016. Our empirical study shows that this risk-reduction strategy has asymmetric effects on low-risk and high-risk procedures. Specifically, the introduction of insurance increases the sales of low-risk procedures, but has no significant effect on the sales of high-risk procedures. More importantly, the insurance has a negative spillover effect on uninsured competitors, regardless of their risk levels. The negative spillover effect of insurance on high-risk procedures is rather intriguing because it hurts the sales of uninsured procedures without increasing the sales of their insured competitors, and thus cannot be explained by demand cannibalization, the common explanation behind negative spillover effects. We discuss a possible explanation in the paper. Our findings have important implications for platforms to design and evaluate their risk-reduction strategies.
+In today’s economy, nearly all products and services generate WOM communication on social media. However, at least three challenges hinder the analysis of online WOM. First, online WOM is usually unstructured data in various communication forms. However, the process of transforming unstructured data can generate a large number of variables, increasing the need for dimension reduction. Second, online WOM can be continuous or bursty. The volume and valence of online WOM may dramatically change in a short period before and after an incident. Third, important events might trigger symmetric or asymmetric reactions in online WOM across rival products or services. We introduce a new method—multi-view sequential canonical covariance analysis to solve these methodological challenges. This new method can solve the myriad WOM conversational dimensions, detect WOM dynamic trends, and examine its concurrent effects across multiple firms. It also provides greater computational efficiency and thus can be referred to as a more advanced manifold optimization approach. We illustrate the advantages of this new method through an empirical example—the 2017 United Express Flight 3411 incident. We find the shared WOM across all airlines significantly increased in April and May 2017. United Airlines and its rivals all experienced a sudden increase of negative emotions and a sudden decrease of positive emotions most likely because of the Incident, yet the magnitudes of the changes were more dramatic for United Airlines. This new method provides a novel insight into the online WOM dynamics and can contribute to a wide range of fields. 
 
-_Keywords_: Cosmetic Procedure, Online Platforms, Add-on Insurance, Risk Reduction, Spillover Effect
+_Keywords_: Multi-view sequential canonical covariance analysis, canonical correlation analysis, online word-of-mouth dynamics, dimension reduction, social media
 
 
-**_This paper currently is under review at [Information Systems Research](https://pubsonline.informs.org/journal/isre)._**
+**_This paper currently is under review at [MIS Quarterly](https://misq.org/)._**
