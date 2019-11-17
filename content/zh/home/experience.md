@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Experience"
+title = "教育背景"
 subtitle = ""
 
 # Date format for experience
@@ -18,46 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Ph.D. in Business Administration"
-  company = "School of Business, University of Connecticut"
+  title = "工商管理博士"
+  company = "康涅狄格大学，商学院"
   company_url = "https://www.business.uconn.edu/"
-  location = "Storrs, CT, USA"
+  location = "美国康涅狄格州斯托斯市"
   date_start = "2015-08-31"
   date_end = ""
   description = """<br />
 
-  * Dissertation: “Essays on Emerging Risk-Reduction Strategies in Online Marketplaces for Professional Services”
+  * 论文: “关于降低专业服务在线市场风险策略的论文”
   
-  * Advisor: [Jan Stallaert](https://www.business.uconn.edu/person/jan-stallaert/), [Xinxin Li](https://www.business.uconn.edu/person/xinxin-li/), [Jing Peng](https://www.business.uconn.edu/person/jing-peng/)
+  * 导师: [Jan Stallaert](https://www.business.uconn.edu/person/jan-stallaert/), [李欣欣](https://www.business.uconn.edu/person/xinxin-li/), [彭景](https://www.business.uconn.edu/person/jing-peng/)
   """
 
 [[experience]]
-  title = "M.S. in Information Science"
-  company = "School of Information Resource Management, Renmin University of China"
+  title = "情报学硕士"
+  company = "中国人民大学，信息资源管理学院"
   company_url = "http://irm.ruc.edu.cn/en"
-  location = "Beijing, China"
+  location = "中国北京市海淀区"
   date_start = "2013-09-01"
   date_end = "2015-06-30"
   description = """<br />
 
-  * Thesis: “An Empirical Study on the Factors of Mobile Online Game Players’ Continuance Participating Based on Extended ECM-ISC"
+  * 论文: “基于扩展的信息系统期望确认模型的移动在线游戏持续参与影响因素实证研究"
   
-  * Advisor: [Liqing Wang](http://sirm.ruc.edu.cn/faculty/information/2009/0420/27.html)
+  * 导师: [王立清](http://sirm.ruc.edu.cn/faculty/information/2009/0420/27.html)
 
   """
   
 [[experience]]
-  title = "B.S. in Information Systems"
-  company = "School of Information Resource Management, Renmin University of China"
+  title = "信息系统学士"
+  company = "中国人民大学，信息资源管理学院"
   company_url = "http://irm.ruc.edu.cn/en"
-  location = "Beijing, China"
+  location = "中国北京市海淀区"
   date_start = "2009-09-09"
   date_end = "2013-06-30"
   description = """<br />
   
-  * Thesis: “An Empirical Study on the Affecting Factors of College Students’ Self-disclosure on Social Network Sites” (Outstanding Bachelor Thesis Award)
+  * Thesis: “大学生社交平台自我表露影响因素实证研究” (优秀毕业论文奖)
   
-  * Advisor: [Ming Ren](http://sirm.ruc.edu.cn/faculty/technologies/2009/1121/155.html)
+  * 导师: [任明](http://sirm.ruc.edu.cn/faculty/technologies/2009/1121/155.html)
   
   """
 
