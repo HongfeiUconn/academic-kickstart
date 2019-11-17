@@ -33,7 +33,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: '图片来源[**太空针塔，西雅图**](https://images.app.goo.gl/J34xkLT55RfhfAmRA)'
+  caption: '图片来源：[**太空针塔，西雅图**](https://images.app.goo.gl/J34xkLT55RfhfAmRA)'
   focal_point: "Bottom"
   preview_only: false
 ---

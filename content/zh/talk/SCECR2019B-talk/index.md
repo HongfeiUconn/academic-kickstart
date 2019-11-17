@@ -33,7 +33,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: '图片来源[**香港中环**](https://images.app.goo.gl/aknRUbsjYxbmujaw9)'
+  caption: '图片来源：[**香港中环**](https://images.app.goo.gl/aknRUbsjYxbmujaw9)'
   focal_point: "Bottom"
   preview_only: false
 

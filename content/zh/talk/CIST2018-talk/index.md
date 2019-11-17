@@ -5,7 +5,7 @@ authors:
 - 彭景
 - 王刚
 - 白雪
-event: CIST 2018
+event: 信息系统与技术会议（CIST）2018
 
 
 
@@ -33,7 +33,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**大峡谷国家公园, 亚利桑那州**](https://images.app.goo.gl/kwqgqNfEAAwjFmuAA)'
+  caption: '图片来源：[**大峡谷国家公园, 亚利桑那州**](https://images.app.goo.gl/kwqgqNfEAAwjFmuAA)'
   focal_point: "Bottom"
   preview_only: false
 ---

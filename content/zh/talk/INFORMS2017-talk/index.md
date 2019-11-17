@@ -34,7 +34,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: '图片来源[**乔治·布朗会议中心**](https://www.eypae.com/client/houstonfirst-corporation/george-r-brown-convention-center)'
+  caption: '图片来源：[**乔治·布朗会议中心**](https://www.eypae.com/client/houstonfirst-corporation/george-r-brown-convention-center)'
   focal_point: "Bottom"
   preview_only: false
 ---
