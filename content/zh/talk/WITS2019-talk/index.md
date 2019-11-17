@@ -5,7 +5,7 @@ authors:
 - 彭景
 - 李欣欣
 - Jan Stallaert
-event: WITS 2019
+event: 信息技术和系统研讨会（WITS）2019
 
 
 
@@ -33,7 +33,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Munich, Germany**](https://images.app.goo.gl/KVRWYJznbssYKmiJ7)'
+  caption: '图片来源[**德国慕尼黑**](https://images.app.goo.gl/KVRWYJznbssYKmiJ7)'
   focal_point: "Bottom"
   preview_only: false
 ---

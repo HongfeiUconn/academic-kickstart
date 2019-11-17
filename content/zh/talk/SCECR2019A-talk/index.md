@@ -1,23 +1,23 @@
 ---
-title: "A New Method to Understand the Online Word of Mouth Dynamics: Multi-View Sequential Canonical Covariance Analysis"
+title: "理解网络口碑动态的一种新方法：多维序列典型协方差分析"
 authors:
 - Xian Cao
 - Timothy Bernarr Folta
 - admin
 - Ruoqing Zhu
-event: SCECR 2019
+event: 电子商务研究中的统计挑战专题讨论会（SCECR）2019
 
 
 
-location: Cheng Yu Tung Building, The Chinese University of Hong Kong
+location: 香港中文大学郑裕彤楼
 address:
-  street: 12 Chak Cheung St, Ma Liu Shui
-  city: Hong Kong
-  region: Shatin, New Territories
+  street: 香港沙田区新界沙田泽祥街12号
+  city: 香港
+  region: 新界沙田
   postcode: ''
-  country: China
+  country: 中国
 
-abstract: "In today’s economy, nearly all products and services generate WOM communication on social media. However, at least three challenges hinder the analysis of online WOM. First, online WOM is usually unstructured data in various communication forms. However, the process of transforming unstructured data can generate a large number of variables, increasing the need for dimension reduction. Second, online WOM can be continuous or bursty. The volume and valence of online WOM may dramatically change in a short period before and after an incident. Third, important events might trigger symmetric or asymmetric reactions in online WOM across rival products or services. We introduce a new method—multi-view sequential canonical covariance analysis to solve these methodological challenges. This new method can solve the myriad WOM conversational dimensions, detect WOM dynamic trends, and examine its concurrent effects across multiple firms. It also provides greater computational efficiency and thus can be referred to as a more advanced manifold optimization approach. We illustrate the advantages of this new method through an empirical example—the 2017 United Express Flight 3411 incident. We find the shared WOM across all airlines significantly increased in April and May 2017. United Airlines and its rivals all experienced a sudden increase of negative emotions and a sudden decrease of positive emotions most likely because of the Incident, yet the magnitudes of the changes were more dramatic for United Airlines. This new method provides a novel insight into the online WOM dynamics and can contribute to a wide range of fields."
+abstract: "在当今的经济环境中，几乎所有产品和服务都会在社交媒体上产生网络口碑。但是，至少有三个挑战阻碍了网络口碑的分析。首先，网络口碑通常是各种形式的非结构化数据，例如文字、图片和视频。但是，将非结构化数据转化成结构化数据的过程可能会生成大量变量，从而增加了对降维的需求。其次，网络口碑可以是连续的或突发的。网络口碑的数量和极性在事件发生前后的短时间内可能会发生巨大变化。第三，重要事件可能会在竞争对手的产品或服务的网络口碑中触发对称或不对称的反应。为此，我们引入了一种新方法——多维序列典型协方差分析来解决这些方法上的挑战。这种新方法可以分析高维度的网络口碑数据，检测网络口碑动态趋势并检查其在多个公司中的并行影响。同时我们设计的算法还提供了更高的计算效率，因此可以称为更高级的manifold优化方法。我们通过一个实证案例（2017年美联航3411事件）说明了这种新方法的优势。我们发现，在2017年4月和2017年5月，所有航空公司之间共享的网络口碑显着增加。联合航空公司及其竞争对手都经历了负面情绪的突然增加和积极情绪的突然减少，这很可能是由于事件造成的，但变化的幅度是对于联合航空公司而言更强烈。这种新方法为网络口碑动态研究提供了新颖的见解，并且可以为广泛的领域做出贡献。 "
 
 view: 3
 
@@ -33,7 +33,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**The Chinese University of Hong Kong**](https://images.app.goo.gl/vEycTmmyhjnM83CQ6)'
+  caption: '图片来源：[**香港中文大学**](https://images.app.goo.gl/vEycTmmyhjnM83CQ6)'
   focal_point: "Bottom"
   preview_only: false
 ---

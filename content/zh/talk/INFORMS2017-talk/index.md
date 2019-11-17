@@ -1,23 +1,23 @@
 ---
-title: "Impacts of Online Diaries on Sales of Credence Goods: Evidence from a Cosmetic Surgery Platform"
+title: "在线日记对信任品销售的影响：来自整容手术平台的证据"
 authors:
 - admin
-- Gang Wang
-- Jing Peng
-- Xue Bai
-event: INFORMS Annual Meeting 2017
+- 王刚
+- 彭景
+- 白雪
+event: INFORMS 2017年会
 
 
 
-location: The George R. Brown Convention Center and Hilton Americas-Houston Hotel
+location: 乔治·布朗会议中心，休斯顿希尔顿酒店
 address:
   street: 1001 Avenida de las Americas
-  city: Houston
-  region: Texas
+  city: 休斯敦
+  region: 德克萨斯州
   postcode: '77010'
-  country: United States
+  country: 美国
 
-abstract: "Credence goods are defined as products whose quality is difficult to evaluate. While online reviews have found to be effective in driving sales of search and experience goods, little is known about its effectiveness on credence goods. Using data from a cosmetic surgery platform, we investigate the impact of a novel form of online reviews, i.e. diaries, on the sales of credence goods. We also examine how the effects are moderated by the risk of surgeries. We focus on two diary features: number of images and post duration. We find the number of images has a positive impact on sales and the effects are stronger for more risky surgeries. These findings shed some light on the online marketing of credence goods."
+abstract: "信任品指的是质量难以评估的产品。尽管之前的研究发现在线评论可以有效地推动搜寻品和体验品的销售，但人们对在线评论如何影响信任品销售知之甚少。我们使用整容手术平台中的数据调查了一种新颖形式的在线评论（即在线日记）对信任品销售的影响。我们还研究了手术的风险怎样调节这种影响。我们专注于两个日记功能：图片数量和日记的持续时间。我们发现图像数量对销售有积极影响，而对于风险较高的手术，效果会更强。这些发现为信任品的在线营销提供了一些启示。"
 
 view: 3
 
@@ -34,7 +34,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**The George R. Brown Convention Center**](https://www.eypae.com/client/houstonfirst-corporation/george-r-brown-convention-center)'
+  caption: '图片来源[**乔治·布朗会议中心**](https://www.eypae.com/client/houstonfirst-corporation/george-r-brown-convention-center)'
   focal_point: "Bottom"
   preview_only: false
 ---
