@@ -50,7 +50,7 @@ subtitle = ""
   description = "本课程的主要内容包括决策工具，预测，项目管理，库存管理和线性规划。"
 
 [[item]]
-  organization = "School of Business, University of Connecticut"
+  organization = "康涅狄格大学，商学院"
   organization_url = "https://opim.business.uconn.edu/"
   title = "运营管理 (OPIM 3104)"
   url = "https://hongfeiuconn.github.io/OPIM3104/"
