@@ -1,5 +1,5 @@
 ---
-title: "Online Diaries and Risky Products"
+title: "在线日记和风险产品"
 authors:
 - admin
 - Jing Peng
@@ -9,7 +9,7 @@ event: CIST 2018
 
 
 
-location: Phoenix Convention Center
+location: "凤凰城会展中心"
 address:
   street: 100 North Third Street
   city: Phoenix 
@@ -33,7 +33,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Grand Canyon National Park, Arizona**](https://images.app.goo.gl/kwqgqNfEAAwjFmuAA)'
+  caption: 'Image credit: [**大峡谷国家公园, 亚利桑那州**](https://images.app.goo.gl/kwqgqNfEAAwjFmuAA)'
   focal_point: "Bottom"
   preview_only: false
 ---
