@@ -24,7 +24,7 @@ view: 3
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-01T14:30:00Z"
+date: "2019-12-19T14:30:00Z"
 all_day: false
 
 # Featured image
