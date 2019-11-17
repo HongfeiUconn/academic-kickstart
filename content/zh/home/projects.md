@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
-title = "Projects"
+title = "项目"
 subtitle = ""
 
 [content]
@@ -22,24 +22,24 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-     name = "All"
+     name = "全部"
      tag = "*"
 
    [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+     name = "深度学习"
+     tag = "深度学习"
 
    [[content.filter_button]]
-     name = "Business Analytics"
-     tag = "Business Analytics"
+     name = "商业分析"
+     tag = "商业分析"
      
    [[content.filter_button]]
-     name = "Statistics"
-     tag = "Statistics"
+     name = "统计学"
+     tag = "统计学"
      
    [[content.filter_button]]
-     name = "Causal Inference"
-     tag = "Causal Inference"
+     name = "因果推断"
+     tag = "因果推断"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -78,11 +78,11 @@ user_groups:
 - Visitors
 ---
 
-李鸿飞是[康涅狄格大学](https://uconn.edu/)[商学院](https://www.business.uconn.edu/)[运营与信息管理系](https://opim.business.uconn.edu/)第五年的在读博士生。 他预计将于2020年5月毕业。 他目前的研究领域主要集中在三个方向： 
+李鸿飞是[康涅狄格大学](https://uconn.edu/)[商学院](https://www.business.uconn.edu/)[运营与信息管理系](https://opim.business.uconn.edu/)第五年的在读博士生。 他预计将于2020年5月毕业。 他目前的研究领域主要集中在三个方向：
 
 * 新兴在线平台中的商业分析
 * 人工智能和机器学习的应用
 * 统计学方法
 
-他目前在[ACM Transaction in MIS](https://tmis.acm.org/)发表了一篇文章。他有一篇文章在[Information Systems Research](https://pubsonline.informs.org/journal/isre)准备二审，一篇文章在[Organization Science](https://pubsonline.informs.org/journal/orsc)被拒准备重新提交。另外，他还有一篇文章在[Information Systems Research](https://pubsonline.informs.org/journal/isre)一审，以及一篇文章在[MIS Quarterly](https://www.misq.org/)一审。在他博士期间, 他教过两门课程: 运营管理([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) 和商业信息系统([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/))。他擅长教与数学、统计学、计量经济学和计算机语言相关的技术类课程，例如商业分析,网络分析,数据科学，机器学习，商业统计，计量经济学和数据库管理。
+他目前在[ACM Transaction in MIS](https://tmis.acm.org/)发表了一篇文章。他有一篇文章在[Information Systems Research](https://pubsonline.informs.org/journal/isre)准备二审，一篇文章在[Organization Science](https://pubsonline.informs.org/journal/orsc)被拒准备重新提交。另外，他还有一篇文章在[Information Systems Research](https://pubsonline.informs.org/journal/isre)一审，以及一篇文章在[MIS Quarterly](https://www.misq.org/)一审。在他博士期间，他教过两门课程：运营管理([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) 和商业信息系统([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/))。他擅长教与数学、统计学、计量经济学和计算机语言相关的技术类课程，例如商业分析，网络分析，数据科学，机器学习，商业统计，计量经济学和数据库管理。
 

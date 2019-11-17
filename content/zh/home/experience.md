@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "01 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
 
   * 论文: “基于扩展的信息系统期望确认模型的移动在线游戏持续参与影响因素实证研究"
   
-  * 导师: [王立清](http://sirm.ruc.edu.cn/faculty/information/2009/0420/27.html)
+  * 导师: [王立清](http://irm.ruc.edu.cn/teachermore.php?cid=8&id=43)
 
   """
   
@@ -55,9 +55,9 @@ date_format = "Jan 2006"
   date_end = "2013-06-30"
   description = """<br />
   
-  * Thesis: “大学生社交平台自我表露影响因素实证研究” (优秀毕业论文奖)
+  * 论文: “大学生社交平台自我表露影响因素实证研究” (优秀毕业论文奖)
   
-  * 导师: [任明](http://sirm.ruc.edu.cn/faculty/technologies/2009/1121/155.html)
+  * 导师: [任明](http://irm.ruc.edu.cn/teachermore.php?cid=8&id=31)
   
   """
 
