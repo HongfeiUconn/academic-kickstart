@@ -1,23 +1,23 @@
 ---
-title: "What Can Images Tell Us: A Predication Study based on Facial Analysis"
+title: "图像能告诉我们什么：基于面部分析的预测研究"
 authors:
-- Fangda Han
-- admin
-- Jing Peng
+- 韩放达
 - Shun-Yang Lee
-event: INFORMS Annual Meeting 2019
+- admin
+- 彭景
+event: 运筹学与管理科学研究所（INFORMS）2019年会
 
 
 
-location: Washington State Convention Center
+location: 华盛顿州会议中心
 address:
   street: 705 Pike Street
-  city: Seattle
-  region: WA
+  city: 西雅图
+  region: 华盛顿州
   postcode: '98101'
-  country: United States
+  country: 美国
 
-abstract: "Cosmetic surgery is a type of highly risky service and consumers usually suffer from an unsatisfying consequence after taking surgery. In this paper, we manage to predict consumers’ post-surgery appearance based on other consumers’ cases by deep learning. Specifically, we utilize generative neural networks (GANs), one type of generative model to automatically generate the post-surgery face given the pre-surgery face image. We design experiments to show that our method can increase consumers' purchase intention. Cosmetic surgery platform or service provider (i.e., hospitals) can leverage our technique to predict consumers’ post-surgery images when they are making their purchase decision."
+abstract: "整容手术是一种高风险的服务，消费者在接受手术后通常会感到不满意。在本文中，我们设法通过深度学习根据其他消费者的案例预测潜在消费者的术后外观。具体来说，我们利用生成神经网络（GANs）（一种生成模型），根据一个潜在消费者的给定手术前的人脸图像自动生成其手术后的预测人脸图像。我们设计的实验表明，该方法可以增加消费者的购买意愿。整容手术平台或服务提供商（例如医院）可以在消费者做出购买决定时利用我们的技术来预测他们的术后效果。"
 
 view: 3
 
@@ -33,7 +33,7 @@ all_day: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Space Needle, Seattle, WA**](https://images.app.goo.gl/J34xkLT55RfhfAmRA)'
+  caption: '图片来源[**太空针塔，西雅图**](https://images.app.goo.gl/J34xkLT55RfhfAmRA)'
   focal_point: "Bottom"
   preview_only: false
 ---

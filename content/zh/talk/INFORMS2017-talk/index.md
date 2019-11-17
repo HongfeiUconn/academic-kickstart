@@ -5,7 +5,7 @@ authors:
 - 王刚
 - 彭景
 - 白雪
-event: INFORMS 2017年会
+event: 运筹学与管理科学研究所（INFORMS）2017年会
 
 
 
