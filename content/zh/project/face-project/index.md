@@ -1,31 +1,31 @@
 ---
-title: "Face Prediction for Cosmetic Surgeries"
+title: "整容手术的人脸预测"
 
-summary: This paper adopts generative adversarial networks to perform face prediction.
+summary: "本文采用生成对抗网络进行人脸预测。"
 
 authors:
-- Fangda Han
+- 韩放达
 - Shun-Yang Lee
 - admin
-- Jing Peng
+- 彭景
 
 
 image:
-  caption: "Model—Conditional Generative Adversarial Networks"
+  caption: "模型—条件生成对抗网络"
   focal_point: Smart
 
 tags:
-- Deep Learning
-- Business Analytics
-- Experiment Design
+- 深度学习
+- 商业分析
+- 实验设计
 
 ---
 
-**Abstract**
+**摘要**
 
-Cosmetic surgery is a type of highly risky service and consumers usually suffer from an unsatisfying consequence after taking surgery. In this paper, we manage to predict consumers’ post-surgery appearance based on other consumers’ cases by deep learning. Specifically, we utilize generative neural networks (GANs), one type of generative model to automatically generate the post-surgery face given the pre-surgery face image. We design experiments to show that our method can increase consumers' purchase intention. Cosmetic surgery platform or service provider (i.e., hospitals) can leverage our technique to predict consumers’ post-surgery images when they are making their purchase decision.
+整容手术是一种高风险的服务，消费者在接受手术后通常会感到不满意。在本文中，我们设法通过深度学习根据其他消费者的案例预测潜在消费者的术后外观。具体来说，我们利用生成神经网络（GANs）（一种生成模型），根据一个潜在消费者的给定手术前的人脸图像自动生成其手术后的预测人脸图像。我们设计的实验表明，该方法可以增加消费者的购买意愿。整容手术平台或服务提供商（例如医院）可以在消费者做出购买决定时利用我们的技术来预测他们的术后效果。
 
-_Keywords_: Face Prediction, Generative Adversarial Networks, Cosmetic Procedure
+关键词: 人脸预测，生成对抗网络，整容手术
 
 
-**_This paper is work-in-progress_**
+**这项研究正在进行中。**
