@@ -121,7 +121,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Beijing Municipal Commission of Education"
-  organization_url = "http://en.moe.gov.cn/"
+  organization_url = "http://jw.beijing.gov.cn/"
   title = "Outstanding Graduates of Beijing"
   url = ""
   certificate_url = ""
