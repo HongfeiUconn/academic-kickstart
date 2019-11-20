@@ -72,7 +72,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "School of Business, University of Connecticut"
   organization_url = "https://www.business.uconn.edu/"
-  title = "GE Capital Global Scholarship, $1500"
+  title = "GE Global Overseas Ph.D. Scholarship, $1500"
   url = ""
   certificate_url = ""
   date_start = "2018-07-01"
