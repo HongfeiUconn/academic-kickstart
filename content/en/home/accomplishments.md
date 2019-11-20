@@ -43,9 +43,101 @@ date_format = "Jan 2006"
   organization_url = "https://www.business.uconn.edu/"
   title = "GE Global Research Fellowship, $1500"
   url = ""
-  certificate_url = "files/cv.pdf"
+  certificate_url = ""
   date_start = "2019-04-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "School of Business, University of Connecticut"
+  organization_url = "https://www.business.uconn.edu/"
+  title = "PhD Program-wide Outstanding PhD Scholar Award, $5000"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-09-01"
+  date_end = ""
+  description = ""
+  
+  
+[[item]]
+  organization = "School of Business, University of Connecticut"
+  organization_url = "https://www.business.uconn.edu/"
+  title = "GE Capital Global Scholarship, $1500"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-07-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "University of Connecticut"
+  organization_url = "https://uconn.edu/"
+  title = "Peter Shanley Scholarship, $7700"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-01-01"
+  date_end = ""
+  description = ""  
+
+[[item]]
+  organization = "Department of OPIM, School of Business, University of Connecticut"
+  organization_url = "https://opim.business.uconn.edu/"
+  title = "Departmental Outstanding PhD Student Scholar Awards, $2000"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-01-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Ministry of Education of China"
+  organization_url = "http://en.moe.gov.cn/"
+  title = "Graduate National Scholarship, ¥20000"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-10-01"
+  date_end = ""
+  description = "" 
+  
+[[item]]
+  organization = "The Japan Foundation and Japan Educational Exchanges and Services"
+  organization_url = ""
+  title = "Japanese-Language Proficiency Test N1"
+  url = "https://www.jlpt.jp/e/index.html"
+  certificate_url = "files/N1.jpg"
+  date_start = "2014-01-25"
+  date_end = ""
+  description = ""  
+
+[[item]]
+  organization = "The Japan Foundation and Japan Educational Exchanges and Services"
+  organization_url = ""
+  title = "Japanese-Language Proficiency Test N2"
+  url = "https://www.jlpt.jp/e/index.html"
+  certificate_url = "files/N2.jpg"
+  date_start = "2013-08-24"
+  date_end = ""
+  description = ""  
+
+[[item]]
+  organization = "Beijing Municipal Commission of Education"
+  organization_url = "http://en.moe.gov.cn/"
+  title = "Outstanding Graduates of Beijing"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-06-01"
+  date_end = ""
+  description = ""   
+
+[[item]]
+  organization = "Renmin University of China"
+  organization_url = "https://www.ruc.edu.cn/en"
+  title = "Outstanding Bachelor Thesis"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-05-01"
+  date_end = ""
+  description = ""  
+  
 
 +++
