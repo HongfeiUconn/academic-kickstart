@@ -36,7 +36,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "简历"
-#    url = "files/cv_zh.pdf"
-#    weight = 100
+[[main]]
+    name = "简历"
+    url = "https://www.hongfei-business.com/files/cv.pdf"
+    weight = 120
