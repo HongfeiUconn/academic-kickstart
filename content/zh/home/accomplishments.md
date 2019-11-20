@@ -19,15 +19,6 @@ date_format = "2006-01"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-[content]
-
-# Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-# Choose how many pages you would like to offset by
-  offset = 0
-
-
 [[item]]
   organization = "信息系统协会（AIS）"
   organization_url = "https://aisnet.org/"
