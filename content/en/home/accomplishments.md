@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[content]
+
+# Choose how much pages you would like to display (0 = all pages)
+  count = 5
+  
+# Choose how many pages you would like to offset by
+  offset = 0
+
+
 [[item]]
   organization = "Association for Information Systems"
   organization_url = "https://aisnet.org/"
