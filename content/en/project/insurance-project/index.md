@@ -26,4 +26,4 @@ The perceived risk of professional services (e.g., education and surgeries) is t
 _Keywords_: Cosmetic Procedure, Online Platforms, Add-on Insurance, Risk Reduction, Spillover Effect
 
 
-**_This paper currently is under review at [Information Systems Research](https://pubsonline.informs.org/journal/isre)._**
+**_This paper currently is under revision for the second round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre)._**

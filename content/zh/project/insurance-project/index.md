@@ -26,4 +26,4 @@ tags:
 关键词：整容手术，在线平台，附加保险，风险降低策略，溢出效应
 
 
-**这篇文章目前在[Information Systems Research](https://pubsonline.informs.org/journal/isre)一审。**
+**这篇文章目前在[Information Systems Research](https://pubsonline.informs.org/journal/isre)准备二审。**
