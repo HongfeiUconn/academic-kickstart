@@ -14,11 +14,11 @@ role: 博士 候选人
 
 # Organizations/Affiliations
 organizations:
-- name: 康涅狄格大学
+- name: 香港中文大学
   url: "https://uconn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 李鸿飞是康涅狄格大学商学院运营与信息管理系的第五年在读博士。他预计将于2020年5月毕业。他目前的研究重点是新兴在线平台中的商业分析，人工智能和机器学习的应用以及统计学方法。
+bio: 李鸿飞是香港中文大学商学院决策科学与企业经济学系的助理教授。他目前的研究重点是新兴在线平台中的商业分析，人工智能和机器学习的应用以及统计学方法。
 
 # interests:
 # - Survival Analysis
@@ -78,7 +78,9 @@ user_groups:
 - Visitors
 ---
 
-李鸿飞是[康涅狄格大学](https://uconn.edu/)[商学院](https://www.business.uconn.edu/)[运营与信息管理系](https://opim.business.uconn.edu/)第五年的在读博士生。 他预计将于2020年5月毕业。 他目前的研究领域主要集中在三个方向：
+李鸿飞是[香港中文大学](https://translate.itsc.cuhk.edu.hk/uniTS/www.cuhk.edu.hk/chinese/index.html)[商学院](https://www.bschool.cuhk.edu.hk/chi/zh-hans/)[决策科学与企业经济学系](https://www.bschool.cuhk.edu.hk/departments/decision-sciences-and-managerial-economics/)的助理教授。在加入香港中文大学之前，李鸿飞在[康涅狄格大学](https://uconn.edu/)[商学院](https://www.business.uconn.edu/)[运营与信息管理系](https://opim.business.uconn.edu/)取得了博士学位和在中国人民大学取得了硕士和学士学位。 
+
+他目前的研究领域主要集中在三个方向：
 
 * 新兴在线平台中的商业分析
 * 人工智能和机器学习的应用

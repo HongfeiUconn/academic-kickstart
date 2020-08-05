@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Connecticut
+- name: Chinese University of Hong Kong
   url: "https://uconn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hongfei Li is a fifth-year Ph.D. student from Department of Operations and Information Management of School of Business, at the University of Connecticut. He expects to graduate by May 2020. His current research focuses on business analytics in emerging online platforms, applications of artificial intelligence and machine Learning, and statistical methodology.
+bio: Hongfei Li is an assistant professor from the Department of Decision Sciences and Managerial Economics (DSME) of School of Business, at the Chinese University of Hong Kong. His current research focuses on business analytics in emerging online platforms, applications of artificial intelligence and machine Learning, and statistical methodology.
 
 # interests:
 # - Survival Analysis
@@ -78,7 +78,11 @@ user_groups:
 - Visitors
 ---
 
-Hongfei Li is a fifth-year Ph.D. student from [Department of Operations and Information Management](https://opim.business.uconn.edu/) of [School of Business](https://www.business.uconn.edu/), at the [University of Connecticut](https://uconn.edu/). He expects to graduate by May 2020. His current research focuses on three main streams: 
+Hongfei Li is an assistant professor from the [Department of Decision Sciences and Managerial Economics (DSME)](https://www.bschool.cuhk.edu.hk/departments/decision-sciences-and-managerial-economics/) at the [School of Business](https://www.bschool.cuhk.edu.hk/), Chinese University of Hong Kong. His current research focuses on business analytics in emerging online platforms, applications of artificial intelligence and machine Learning, and statistical methodology.
+Hongfei Li is a fifth-year Ph.D. student from [Department of Operations and Information Management](https://opim.business.uconn.edu/) of [School of Business](https://www.business.uconn.edu/), at the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). He received his Ph.D. from the School of Business at the University of Connecticut and his B.S. and M.S. from Renmin University of China in Beijing.
+
+
+His current research focuses on three main streams: 
 
 * Business analytics in emerging online platforms
 * Applications of artificial intelligence and machine Learning 
