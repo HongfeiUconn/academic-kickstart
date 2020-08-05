@@ -23,7 +23,7 @@ date_format = "2006-01"
   company_url = "https://www.business.uconn.edu/"
   location = "美国康涅狄格州斯托斯市"
   date_start = "2015-08-31"
-  date_end = ""
+  date_end = "2020-08-24"
   description = """<br />
 
   * 论文: “关于降低专业服务在线市场风险策略的论文”

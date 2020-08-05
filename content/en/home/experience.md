@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.business.uconn.edu/"
   location = "Storrs, CT, USA"
   date_start = "2015-08-31"
-  date_end = ""
+  date_end = "2020-08-24"
   description = """<br />
 
   * Dissertation: “Essays on Emerging Risk-Reduction Strategies in Online Marketplaces for Professional Services”

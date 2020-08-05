@@ -90,11 +90,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2100 Hillside Rd #1041", city = "Storrs", region = "CT", postcode = "06269", country = "United States", country_code = "US"}
+address = {street = "No.12 Chak Cheung Street", city = "Shatin", region = "New Territories", postcode = "", country = "Hong Kong", country_code = "HK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.805897", longitude = "-72.253542"}
+coordinates = {latitude = "22.335032", longitude = "114.263851"}
 
 # Directions for visitors to locate you.
 directions = ""
