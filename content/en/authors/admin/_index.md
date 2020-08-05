@@ -48,7 +48,7 @@ bio: Hongfei Li is an assistant professor from the Department of Decision Scienc
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hongfei.li@uconn.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hongfei.li@cuhk.edu.hk'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hongfei-li-29019a145/
@@ -87,5 +87,5 @@ His current research focuses on three main streams:
 * Applications of artificial intelligence and machine Learning 
 * Statistical methodology
 
-He has one publication at [ACM Transaction in MIS](https://dl.acm.org/doi/abs/10.1145/3371388). He has two papers under revision for the second-round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre) and one paper under revision for the second-round review at [Marketing Science](https://www.informs.org/Publications/INFORMS-Journals/Marketing-Science). He also has one paper under reject and resubmit at [Organization Science](https://pubsonline.informs.org/journal/orsc). During his Ph.D. career, he has taught two courses: operations management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) and business information systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)). He is interested in teaching technical courses related to mathematics, statistics, econometrics, and computer language in business application, such as _business analytics_, _web analytics_, _data science_, _machine learning_, _business statistics_, _econometrics_, and _database systems_.
+He has [one publication](https://dl.acm.org/doi/abs/10.1145/3371388) at [ACM Transaction in MIS](https://dl.acm.org/journal/tmis). He has two papers under revision for the second-round review at [Information Systems Research](https://pubsonline.informs.org/journal/isre) and one paper under revision for the second-round review at [Marketing Science](https://www.informs.org/Publications/INFORMS-Journals/Marketing-Science). He also has one paper under reject and resubmit at [Organization Science](https://pubsonline.informs.org/journal/orsc). During his Ph.D. career, he has taught two courses: operations management ([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) and business information systems ([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/)). He is interested in teaching technical courses related to mathematics, statistics, econometrics, and computer language in business application, such as _business analytics_, _web analytics_, _data science_, _machine learning_, _business statistics_, _econometrics_, and _database systems_.
 

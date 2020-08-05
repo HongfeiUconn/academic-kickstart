@@ -48,7 +48,7 @@ bio: 李鸿飞是香港中文大学商学院决策科学与企业经济学系的
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hongfei.li@uconn.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hongfei.li@cuhk.edu.hk'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hongfei-li-29019a145/
@@ -86,5 +86,5 @@ user_groups:
 * 人工智能和机器学习的应用
 * 统计学方法
 
-他目前在[ACM Transaction in MIS](https://tmis.acm.org/)发表了一篇文章。他有两篇文章在[Information Systems Research](https://pubsonline.informs.org/journal/isre)准备二审，一篇文章在[Organization Science](https://pubsonline.informs.org/journal/orsc)被拒准备重新提交。另外，他还有一篇文章在[MIS Quarterly](https://www.misq.org/)一审。在他博士期间，他教过两门课程：运营管理([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) 和商业信息系统([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/))。他擅长教与数学、统计学、计量经济学和计算机语言相关的技术类课程，例如商业分析，网络分析，数据科学，机器学习，商业统计，计量经济学和数据库管理。
+他目前在[ACM Transaction in MIS](https://tmis.acm.org/)发表了[一篇文章](https://dl.acm.org/doi/10.1145/3371388)。他有两篇文章在[Information Systems Research](https://pubsonline.informs.org/journal/isre)准备二审以及一篇文章在[Marketing Science](https://www.informs.org/Publications/INFORMS-Journals/Marketing-Science)准备二审。他另外一篇文章在[Organization Science](https://pubsonline.informs.org/journal/orsc)被拒准备重新提交。在他博士期间，他教过两门课程：运营管理([OPIM 3104](https://hongfeiuconn.github.io/OPIM3104/)) 和商业信息系统([OPIM 3103](https://hongfeiuconn.github.io/OPIM3103/))。他擅长教与数学、统计学、计量经济学和计算机语言相关的技术类课程，例如商业分析，网络分析，数据科学，机器学习，商业统计，计量经济学和数据库管理。
 
