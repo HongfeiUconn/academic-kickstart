@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Chinese University of Hong Kong
-  url: "https://uconn.edu/"
+  url: "https://www.cuhk.edu.hk/english/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hongfei Li is an assistant professor from the Department of Decision Sciences and Managerial Economics (DSME) of School of Business, at the Chinese University of Hong Kong. His current research focuses on business analytics in emerging online platforms, applications of artificial intelligence and machine Learning, and statistical methodology.
