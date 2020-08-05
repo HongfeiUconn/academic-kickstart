@@ -90,11 +90,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "No.12 Chak Cheung Street", city = "Shatin", region = "New Territories", postcode = "", country = "Hong Kong", country_code = "HK"}
+address = {street = "Cheng Yu Tung Building, No.12 Chak Cheung Street", city = "Shatin", region = "New Territories", postcode = "", country = "Hong Kong", country_code = "HK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "22.335032", longitude = "114.263851"}
+coordinates = {latitude = "22.412227", longitude = "114.210602"}
 
 # Directions for visitors to locate you.
 directions = ""
