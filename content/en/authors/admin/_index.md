@@ -78,8 +78,7 @@ user_groups:
 - Visitors
 ---
 
-Hongfei Li is an assistant professor from the [Department of Decision Sciences and Managerial Economics (DSME)](https://www.bschool.cuhk.edu.hk/departments/decision-sciences-and-managerial-economics/) at the [School of Business](https://www.bschool.cuhk.edu.hk/), Chinese University of Hong Kong. His current research focuses on business analytics in emerging online platforms, applications of artificial intelligence and machine Learning, and statistical methodology.
-Hongfei Li is a fifth-year Ph.D. student from [Department of Operations and Information Management](https://opim.business.uconn.edu/) of [School of Business](https://www.business.uconn.edu/), at the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). He received his Ph.D. from the School of Business at the University of Connecticut and his B.S. and M.S. from Renmin University of China in Beijing.
+Hongfei Li is an assistant professor from the [Department of Decision Sciences and Managerial Economics (DSME)](https://www.bschool.cuhk.edu.hk/departments/decision-sciences-and-managerial-economics/) at the [School of Business](https://www.bschool.cuhk.edu.hk/), [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html). Before joining CUHK, he received his Ph.D. from the [School of Business](https://www.business.uconn.edu/) at the [University of Connecticut](https://uconn.edu/) and his B.S. and M.S. from [Renmin University of China](https://www.ruc.edu.cn/en) in Beijing.
 
 
 His current research focuses on three main streams: 
