@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Hongfei Li
+name: Hongfei Li, Ph.D.
 
 # Username (this should match the folder name)
 authors:

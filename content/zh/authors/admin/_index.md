@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 李鸿飞
+name: 李鸿飞, 博士
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 博士 候选人
+role: 助理教授
 
 # Organizations/Affiliations
 organizations:
