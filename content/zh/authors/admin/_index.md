@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 李鸿飞, 博士
+name: 李鸿飞
 
 # Username (this should match the folder name)
 authors:
@@ -60,7 +60,7 @@ social:
   link: https://www.facebook.com/profile.php?id=100010079380710
 - icon: home
   icon_pack: fas
-  link: https://www.business.uconn.edu/person/hongfei-li/
+  link: https://www.bschool.cuhk.edu.hk/staff/li-hongfei/
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  

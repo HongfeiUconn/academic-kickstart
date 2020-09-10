@@ -86,7 +86,7 @@ edit_page = {repo_url = "", repo_branch = "master", editable = {docs = false, pa
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "hongfei.li@cuhk.edu.hk"
-phone = "+852 5726 0814"
+phone = "+852 3943 9679"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
