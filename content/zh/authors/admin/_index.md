@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cuhk.edu.hk/chinese/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 李鸿飞是香港中文大学商学院决策科学与企业经济学系的助理教授。他目前的研究重点是新兴在线平台中的商业分析，人工智能和机器学习的应用以及统计学方法。
+bio: 李鸿飞是香港中文大学商学院决策科学与企业经济学系的助理教授。他目前的研究重点是新兴在线平台的商业分析，人工智能和机器学习的应用以及统计学方法。
 
 # interests:
 # - Survival Analysis
